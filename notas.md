@@ -6,3 +6,7 @@
 -Proyecto de DAW
 -Inglés Profesional
 -Itinerario Personal para la Empleabilidad II
+
+*Cosas Pendientes:
+    #Prueba el viernes
+    #Terminar las actividades
