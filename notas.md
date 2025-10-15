@@ -11,3 +11,5 @@
 *Cosas Pendientes:
     #Prueba el viernes
     #Terminar las actividades
+
+Ahora es para la rama feature-conflicto
